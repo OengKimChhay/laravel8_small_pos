@@ -1,0 +1,13 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+@import '~font-awesome/scss/font-awesome';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.invalid{
+    border: 1px solid red;
+}
